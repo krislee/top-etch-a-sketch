@@ -1,0 +1,11 @@
+button {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+#container{
+    width:960px;
+    margin: 0 auto;
+    display:grid;
+    justify-content: center;
+}
